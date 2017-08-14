@@ -21,7 +21,7 @@ body {
  * Hide default border to remove 1px line.
  */
 .navbar-brand {
-  height: 98px;
+  height: 78px;
 }
 .navbar-fixed-top {
   border: 0;
